@@ -1,0 +1,22 @@
+body{
+    padding: 30px;
+    background-color: #000f1a;
+    color: aliceblue;
+}
+table img{
+    height: 20px;
+    width: 20px
+}
+table{
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    border: 1px solid white;
+}
+tr{
+    width: 100%;
+    margin: 5px;
+}
+.extent div{
+    display: flex;
+}
